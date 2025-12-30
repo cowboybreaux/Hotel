@@ -1,0 +1,3 @@
+Azib,20,Male,Front Desk,3000,0129382934,azib@hotel.com,183888
+Azib,20,Male,Front Desk,3000,012837268,azib1@yahoo.com,183881
+Azib,20,Male,Front Desk,1900,0128373923,azib@yahoo.com,azib123

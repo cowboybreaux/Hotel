@@ -1,0 +1,8 @@
+101, Available, Cleaned, RM130, Single
+102, Available, Cleaned, RM130, Single
+105, Not Available, Uncleaned, RM130, Single
+201, Not Available, Cleaned, RM230, Queen
+202, Available, Cleaned, RM310, Queen + Single
+301, Available, Cleaned, RM130, Queen
+302, Available, Cleaned, RM130, King
+304, Available, Cleaned, RM130, King
